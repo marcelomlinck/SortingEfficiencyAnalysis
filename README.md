@@ -29,3 +29,6 @@ All folders contain a PDF report, in portuguese, describing its performances and
 ## Odd Even
 
 <img src="figs/odd_even.png" width=300>
+
+
+Any questions, feel free to contact me via <a href=mailto:marcelomlinck@gmail.com>e-mail</a>.
