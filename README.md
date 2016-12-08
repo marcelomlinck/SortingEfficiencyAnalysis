@@ -1,4 +1,4 @@
-# complexity_analysis
+# SortingEfficiencyAnalysis
 This repository presents the comparison of many parallel sorting algorithms and its execution times for n different CPU numbers.
 
 Each folder of the repository contains a different sorting algorithm working in coordination with differnt parallel paradigms. 
